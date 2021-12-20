@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Cloud Computing & Database Systems and Data Science
 🧑‍💻 I’m looking for SWE internship opportunities for Summer 2022
 ⚡ Fun fact: I love to cook
+ 
