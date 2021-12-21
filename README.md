@@ -9,8 +9,7 @@
 🧑‍💻 I’m looking for SWE internship opportunities for Summer 2022\
 ⚡ Fun fact: I love to cook
  
- 
- 
+[Shardha GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shardhakoul&show_icons=true)
  
  
  																																																																														
