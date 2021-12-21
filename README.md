@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-                  ![image_processing20200512-26236-ieqo5l](https://user-images.githubusercontent.com/85691194/146835566-6d807c18-1222-46b7-bc55-399e27bd24e2.gif)
+![image](https://user-images.githubusercontent.com/85691194/146850009-68983629-6836-4fd8-8efc-0434336f0ca5.png)
+
 
 
 📚 Computer Science Graduate student @ NYU\
